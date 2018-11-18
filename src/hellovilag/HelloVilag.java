@@ -15,6 +15,7 @@ public class HelloVilag {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //
         // Írassa ki a "Helló Világ!" szöveget a képernyőre!
     }
     
